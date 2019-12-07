@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="add_task">addtask</string>
+    <string name="default_title">title</string>
+    <string name="default_desc">desc</string>
+    <string name="app_name">appname</string>
+    <string name="task_title">tasktitle</string>
+    <string name="task_description">taskdes</string>
+    <string-array name="images">
+        <item>drawable 1</item>
+        <item>drawable 2</item>
+        <item>drawable 3</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_selected_msg">itemesg</string>
+    <string name="delete_question">deletq</string>
+    <string name="dialog_confirm">deltconf</string>
+    <string name="dialog_cancel">cancel</string>
+    <string name="delete_dialog_tag">deletedalog</string>
+    <string name="long_click_msg">longclikcmes</string>
+    <string name="delete_cancel_msg">deletecal</string>
+    <string name="retry_msg">retray</string>
+    <string name="task_title1">title2</string>
+    <string name="task_title2">title3</string>
+    <string name="task_title3">title4</string>
+    <string name="name">Name</string>
+    <string name="surname">surnam</string>
+    <string name="birthday">birhth</string>
+    <string name="phonenumber">numbe</string>
+    <string name="number">numbeph</string>
+    <string name="phone">phon</string>
+    <string name="birth">birh</string>
+    <string name="sound">sond</string>
+    <string name="empty_name_msg">emptyname</string>
+    <string name="invalid_date_toast_msg">invalidd</string>
+    <string name="phone_number_invalid_msg">phonenu</string>
+
+</resources>
